@@ -20,10 +20,10 @@ Mở trình duyệt tại:
 
 | Chức năng | Mô tả | Ảnh minh họa |
 |------------|--------|--------------|
-| Register | Đăng ký tài khoản mới | ![Register](public/results/regist.png) |
-| Login | Đăng nhập vào hệ thống | ![Login](public/results/login.png) |
-| Profile | Xem thông tin cá nhân | ![Profile](public/results/profile.png) |
-| Logout | Đăng xuất | ![Logout](public/results/logout.png) |
+| Register | Đăng ký tài khoản mới | ![Register](public/results/views/regist.png) |
+| Login | Đăng nhập vào hệ thống | ![Login](public/results/views/login.png) |
+| Profile | Xem thông tin cá nhân | ![Profile](public/results/views/profile.png) |
+| Logout | Đăng xuất | ![Logout](public/results/views/logout.png) |
 
 ---
 
